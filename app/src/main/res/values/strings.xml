@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Babak\'s Portfolio</string>
+    <string name="menu_button_1">Popular Movies</string>
+    <string name="menu_button_2">Stock Hawk</string>
+    <string name="menu_button_3">Build It Bigger</string>
+    <string name="menu_button_4">Make Your App Material</string>
+    <string name="menu_button_5">Go Ubiquitous</string>
+    <string name="menu_button_6">Capstone</string>
+</resources>
